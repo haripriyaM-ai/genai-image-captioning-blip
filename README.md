@@ -1,4 +1,4 @@
-## EXP-06 : Prototype Development for Image Captioning Using the BLIP Model and Gradio Framework
+# EXP-06 : Prototype Development for Image Captioning Using the BLIP Model and Gradio Framework
 ### NAME : HARI PRIYA M.
 ### REGISTER NO : 212224240047
 
